@@ -18,7 +18,7 @@ It combines **data science + visualization + recommendation systems** into a sin
 
 ## 📌 Table of Contents
 
-- [❓ Why This Project Exists]((#exists))
+- [Why This Project Exists](#exists)
 - [Features](#features)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
