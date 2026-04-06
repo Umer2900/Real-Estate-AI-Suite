@@ -131,7 +131,7 @@ REAL ESTATE PROJECT/
 ├── 5. Handling Outliers & Missing Values  
 ├── 6. Feature Selection  
 ├── 7. Model Selection  
-│
+│ <br>
 ├── 8. Real Estate App  
 │    ├── datasets  
 │    │   ├── cosine_sim1.pkl  
@@ -143,16 +143,16 @@ REAL ESTATE PROJECT/
 │    │  
 │    ├── models  
 │    │   ├── df.pkl  
-│    │   └── pipeline.pkl 
-│    │
+│    │   └── pipeline.pkl <br>
+│    │ <br>
 │    ├── pages  
 │    │   ├── 1_Price Predictor.py  
 │    │   ├── 2_Analysis App.py  
 │    │   └── 3_Recommend Appartments.py  
 │    │   
 │    └── app.py  
-│
-├── assets 
+│<br>
+├── assets <br>
 ├── README.md  
 ├── requirements.txt  
 ├── .gitignore  
