@@ -168,8 +168,8 @@ REAL ESTATE PROJECT/
 
 ### 📥 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/real-estate-ai.git
-cd real-estate-ai
+git clone https://github.com/Umer2900/Real-Estate-AI-Suite.git
+cd Real-Estate-AI-Suite
 ```
 
 ### 📦 2. Install Dependencies
