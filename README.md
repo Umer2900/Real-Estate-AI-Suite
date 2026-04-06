@@ -18,12 +18,12 @@ It combines **data science + visualization + recommendation systems** into a sin
 
 ## 📌 Table of Contents
 
-- Why This Project Exists
-- Features
-- Usage
-- Tech Stack
-- Project Structure
-- Setup Instructions
+- [❓ Why This Project Exists]((#exists))
+- [Features](#features)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Setup Instructions](#setup-instructions)
 
 ---
 
@@ -106,7 +106,7 @@ All in one place.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technologies Used
 
 | Layer            | Technology                     |
 |------------------|--------------------------------|
@@ -131,25 +131,27 @@ REAL ESTATE PROJECT/
 ├── 5. Handling Outliers & Missing Values  
 ├── 6. Feature Selection  
 ├── 7. Model Selection  
-
-└── 8. Real Estate App  
-    ├── datasets  
-    │   ├── cosine_sim1.pkl  
-    │   ├── cosine_sim2.pkl  
-    │   ├── cosine_sim3.pkl  
-    │   ├── data_viz1.csv  
-    │   ├── feature_text.pkl  
-    │   └── location_distance.pkl  
-    │  
-    ├── pages  
-    │   ├── 1_Price Predictor.py  
-    │   ├── 2_Analysis App.py  
-    │   └── 3_Recommend Appartments.py  
-    │  
-    ├── app.py  
-    ├── df.pkl  
-    └── pipeline.pkl  
-
+│
+├── 8. Real Estate App  
+│    ├── datasets  
+│    │   ├── cosine_sim1.pkl  
+│    │   ├── cosine_sim2.pkl  
+│    │   ├── cosine_sim3.pkl  
+│    │   ├── data_viz1.csv  
+│    │   ├── feature_text.pkl  
+│    │   └── location_distance.pkl  
+│    │  
+│    ├── models  
+│    │   ├── df.pkl  
+│    │   └── pipeline.pkl 
+│    │
+│    ├── pages  
+│    │   ├── 1_Price Predictor.py  
+│    │   ├── 2_Analysis App.py  
+│    │   └── 3_Recommend Appartments.py  
+│    │   
+│    └── app.py  
+│
 ├── assets 
 ├── README.md  
 ├── requirements.txt  
